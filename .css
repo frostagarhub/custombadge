@@ -60,3 +60,22 @@
     border: none;
     border-radius: 0;
 }
+#user-rollover.id-26592729 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/IU4m3W1.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+#chat-messages .fromID-26592729 .badge-box i,
+#chat-messages .id-26592729 .badge-box i {
+    background-image: url(https://nightbloo.github.io/plug/custom-badges/leaf.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
